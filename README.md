@@ -3,4 +3,4 @@ Runmin Cong, Wenyu Yang, Wei Zhang, Chongyi Li, Chun-Le Guo, Qingming Huang, and
 
 ## Results
 
-1. **Qualitative results**: we provide the saliency maps, you can download them from [[Link](https://pan.baidu.com/s/12hskOHReUg27UbHNlMbh_A?pwd=mvpP)], code: mvpP.
+1. **Qualitative results**: we provide the enhancement maps, you can download them from [[Link](https://pan.baidu.com/s/12hskOHReUg27UbHNlMbh_A?pwd=mvpP)], code: mvpP.
