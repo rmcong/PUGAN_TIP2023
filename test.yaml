@@ -1,0 +1,15 @@
+# image info
+chans: 3
+im_width: 256
+im_height: 256
+
+data_dir : ./tests/input/
+sample_dir : ./samples/
+gtr_dir : ./tests/gt/
+path_gen : ./checkpoints/UIEB/ugan_generator.pth
+path_d : ./Par/model/Dnet_100.pth
+path_t : ./Par/model/Tnet_100.pth
+path_a : ./Par/model/coe_40.pth
+
+
+
