@@ -95,13 +95,14 @@ python evaluations/measure_ssim_psnr.py
 ## Bibtex
 
 ```
-   @article{PUGAN,
-     title={PUGAN: Physical model-guided underwater image enhancement using GAN with dual-discriminators},
-     author={Cong, Runmin and Yang, Wenyu and Zhang, Wei and Li, Chongyi and Guo, Chun-Le and Huang, Qingming and Kwong, Sam},
-     journal={IEEE Trans. Image Process. },
-     year={},
-     publisher={IEEE}
-    }
+   @article{crm/tip23/PUGAN,
+           author={Cong, Runmin and Yang, Wenyu and Zhang, Wei and Li, chongyi and Guo, Chun-Le and Huang, Qingming and Kwong, Sam },
+           journal={IEEE Trans. Image Process. },
+           title= {{PUGAN}: Physical model-guided underwater image enhancement using {GAN} with dual-discriminators},
+           volume={32},
+           pages={4472-4485},
+           year={2023}
+           }
   
 ```
 
