@@ -108,4 +108,4 @@ python evaluations/measure_ssim_psnr.py
 
 ## Contact Us
 
-If you have any questions, please contact Runmin Cong at [rmcong@sdu.edu.cn](mailto:rmcong@sdu.edu.cn) or Qi Qin at [wyuyang@bjtu.edu.cn](mailto:wyuyang@bjtu.edu.cn).
+If you have any questions, please contact Runmin Cong at [rmcong@sdu.edu.cn](mailto:rmcong@sdu.edu.cn) or Wenyu Yang at [wyuyang@bjtu.edu.cn](mailto:wyuyang@bjtu.edu.cn).
